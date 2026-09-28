@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Mr Cat
+
+🛠️ Skills
+
+"Lua" (https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **replit8173/replit8173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
